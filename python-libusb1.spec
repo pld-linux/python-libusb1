@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Czysto pythonowy interfejs do libusb-1.0
 Name:		python-libusb1
 # keep 1.x here for python2 support
 Version:	1.9.3
-Release:	2
+Release:	3
 License:	LGPL v2.1+
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/libusb1/
